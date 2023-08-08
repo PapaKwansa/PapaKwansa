@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @PapaKwansa
 - 👀 I’m interested in 2D and 3D heat diffusion problems
+- I'm interested in modeling contaminat transports in groundwater systems and remediating them.
 - 🌱 I’m currently learning coding the finite difference method in python
 - 💞️ I’m looking to collaborate on coding the 3D heat diffusion problem using the finite difference method in python
 - 📫 How to reach me arhin2014@gmail.com
